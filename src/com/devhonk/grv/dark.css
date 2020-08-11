@@ -1,0 +1,23 @@
+.root{
+    -fx-base: #495057;
+    -fx-background: #343a40;
+    -fx-border-radius: 500;
+}
+.txtField {
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
+
+.button {
+    -fx-border-radius: 7;
+    -fx-background-radius: 7;
+}
+
+.list {
+    -fx-border-radius: 5;
+    -fx-background-radius: 5;
+}
+.avatar {
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+}
